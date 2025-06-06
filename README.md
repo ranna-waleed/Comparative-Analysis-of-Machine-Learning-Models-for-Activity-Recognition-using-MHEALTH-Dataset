@@ -21,8 +21,8 @@ Scikit-learn's SVC classifier
 - (Mentions of LogisticRegression, MLPClassifier exist but not clearly used in results)
 
 # Evaluation Metrics
-Accuracy
-Precision
-Recall
-F1-Score
-Confusion Matrix
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- Confusion Matrix
