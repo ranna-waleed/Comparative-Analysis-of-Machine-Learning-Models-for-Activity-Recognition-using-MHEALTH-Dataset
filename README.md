@@ -8,8 +8,8 @@ This project performs human activity recognition using the mHealth dataset, comp
 - Features Used: First 11 numerical features
 - Target Variable: Activity label (last column)
 - Preprocessing:
-Dropped subject column
-Removed missing values
+Dropped subject column,
+Removed missing values,
 Shuffled data
 - Train/Test split: 90% training, 10% testing
 
